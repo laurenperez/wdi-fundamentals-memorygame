@@ -1,0 +1,102 @@
+body {
+	text-align: center;
+	margin: 0px;
+}
+
+h1 {
+	font-family:"Raleway", sans-serif;
+	color: #FFFFFF;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-size: 45px;
+	margin: 0px;
+}
+
+nav {
+	background-color: #00a6b3;
+	padding: 20px 0px;
+}
+
+.Instructions {
+	font-family:"Raleway", sans-serif;
+	color: #FFFFFF;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+a {
+    margin: 0px 20px;
+    border-bottom: 2px solid transparent;
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+    color: #00a6b3;
+}
+
+header {
+	background-color:#f15b31;
+	padding: 30px 20px;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+h2, h3, h4 {
+	font-family:"Raleway", sans-serif;
+	color: #0d2c40;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 26px;
+	font-size: 18px;
+}
+
+img {
+	margin: 40px 8px;
+}
+
+footer {
+	padding: 0px 20px;
+	background-color: #0D2C40;
+	color: #FFFFFF;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+.copywrite {
+	font-family: "Raleway", sans-serif;
+	float: left;
+}
+
+.message {
+	font-family: "Raleway", sans-serif;
+	float: right;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+
+a:hover {
+	color: #f15b31;
+}
+
+
+
