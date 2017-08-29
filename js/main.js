@@ -41,6 +41,7 @@ var flipCard = function() {
 	this.setAttribute('src', cards[cardId].cardImage);
 	if (cardsInPlay.length === 2) {
 		checkForMatch();
+		// TODO add bonus code here
 	}
 };
 
